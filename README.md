@@ -5,5 +5,7 @@
 ![image](https://github.com/nhatdo022002/Seminar-KHDL/assets/88343299/614f27f9-28b0-4e4f-8fb0-c70b05be7c09)
 ## Website interface
 ![image](https://github.com/nhatdo022002/Seminar-KHDL/assets/88343299/aaab3cf1-e0cc-44a0-ae2d-3ad0a992b3c8)
+## Automation using Apache Airflow
+![image](https://github.com/nhatdo022002/Seminar-KHDL/assets/88343299/b7e476d9-3792-4ae0-b9e6-464368fcf7c8)
 
 
