@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies</title>
+    <link rel="icon" href="/imgs/icon.svg" type="image/svg+xml" />
+    <!-- Favicon link -->
+
+    <style>
+      body {
+        font-family: "Source Sans Pro", Arial, sans-serif;
+        text-align: center; /* Center align the content */
+        background-color: #000; /* Set the background color to black */
+        color: #fff; /* Set the text color to white */
+      }
+
+      h1 {
+        color: #f4c518; /* Set the color to gold for the heading */
+      }
+
+      ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; /* Center the list items */
+      }
+
+      li {
+        width: 20%; /* Set the width to 20% for 5 movies per row */
+        box-sizing: border-box;
+        margin: 20px; /* Add margin around each movie container */
+        display: flex; /* Use flexbox for equal height */
+        flex-direction: column; /* Arrange items vertically */
+      }
+
+      .movie-container {
+        background-color: #593e1a; /* Set the background color to brown for the movie container */
+        padding: 15px;
+        border-radius: 10px; /* Add border-radius for rounded corners */
+        flex-grow: 1; /* Allow the container to grow vertically */
+        display: flex; /* Use flexbox to align items */
+        flex-direction: column; /* Arrange items vertically */
+        justify-content: space-between; /* Add space between items */
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 10px; /* Add margin between poster and other information */
+        border-radius: 5px; /* Add border-radius for rounded corners */
+      }
+
+      .rating {
+        color: #f4c518; /* Set the color to gold */
+        font-size: 1.5em; /* Adjust the font size as needed */
+        margin-bottom: 10px; /* Add margin below the rating */
+      }
+
+      .title {
+        color: #fff; /* Set the text color to white for the title */
+      }
+
+      /* Add style for the disclaimer */
+      .disclaimer {
+        margin-top: 20px;
+        color: #ccc; /* Set the color to a lighter gray for the disclaimer */
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Upcoming movies prediction website</h1>
+    <ul>
+      {% for movie in movies %}
+      <li>
+        <div class="movie-container">
+          <img
+            src="{{ movie['image_path'] }}"
+            alt="{{ movie['title'] }} Poster"
+          />
+          <p class="rating">★ {{ movie['rating'] }}</p>
+          <h2 class="title">{{ movie['title'] }}</h2>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <!-- Disclaimer -->
+    <p class="disclaimer">
+      Đây là trang web tạo ra với mục đích học tập, không dùng cho mục đích
+      thương mại.
+    </p>
+  </body>
+</html>

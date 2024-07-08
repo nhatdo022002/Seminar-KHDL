@@ -1,0 +1,1591 @@
+{
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+            "belongs_to_collection": {
+                "id": 573693,
+                "name": "Aquaman Collection",
+                "poster_path": "/rNQompSTfAG5O2iXSH8Phay4L45.jpg",
+                "backdrop_path": "/5iidzov8DrsSyZdefeo7jBLDNUW.jpg"
+            },
+            "budget": 205000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "http://www.aquamanmovie.com",
+            "id": 572802,
+            "imdb_id": "tt9663764",
+            "original_language": "en",
+            "original_title": "Aquaman and the Lost Kingdom",
+            "overview": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.",
+            "popularity": 1855.045,
+            "poster_path": "/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/9tefnXnJLGQL97cxs6S3EWEhVyx.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11565,
+                    "logo_path": null,
+                    "name": "The Safran Company",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 76907,
+                    "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+                    "name": "Atomic Monster",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 128064,
+                    "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+                    "name": "DC Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 216687,
+                    "logo_path": null,
+                    "name": "Domain Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-12-20",
+            "revenue": 120000000,
+            "runtime": 124,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The tide is turning.",
+            "title": "Aquaman and the Lost Kingdom",
+            "video": false,
+            "vote_average": 6.476,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+            "belongs_to_collection": {
+                "id": 1211888,
+                "name": "Thanksgiving Collection",
+                "poster_path": "/wKathQJBkDHusQTgwzoAx9HaVMg.jpg",
+                "backdrop_path": "/nOGO5L9HZSLq03uoVGn7JAqkV9g.jpg"
+            },
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "homepage": "http://thanksgiving.movie",
+            "id": 1071215,
+            "imdb_id": "tt1448754",
+            "original_language": "en",
+            "original_title": "Thanksgiving",
+            "overview": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+            "popularity": 699.856,
+            "poster_path": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+            "production_companies": [
+                {
+                    "id": 175140,
+                    "logo_path": "/grxF2M2ZByxjnzDyvHkfU5Tjr80.png",
+                    "name": "Electromagnetic Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 18142,
+                    "logo_path": null,
+                    "name": "Dragonfly Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 143790,
+                    "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+                    "name": "Spyglass Media Group",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-11-16",
+            "revenue": 44000000,
+            "runtime": 106,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Russian",
+                    "iso_639_1": "ru",
+                    "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+                }
+            ],
+            "status": "Released",
+            "tagline": "There will be no leftovers.",
+            "title": "Thanksgiving",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": "",
+            "id": 891699,
+            "imdb_id": "tt15799866",
+            "original_language": "en",
+            "original_title": "Silent Night",
+            "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
+            "popularity": 949.959,
+            "poster_path": "/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg",
+            "production_companies": [
+                {
+                    "id": 3528,
+                    "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+                    "name": "Thunder Road",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 152934,
+                    "logo_path": null,
+                    "name": "Capstone Group",
+                    "origin_country": ""
+                },
+                {
+                    "id": 172860,
+                    "logo_path": null,
+                    "name": "A Better Tomorrow Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-11-30",
+            "revenue": 0,
+            "runtime": 104,
+            "spoken_languages": [
+                {
+                    "english_name": "No Language",
+                    "iso_639_1": "xx",
+                    "name": "No Language"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Action speaks louder than words.",
+            "title": "Silent Night",
+            "video": false,
+            "vote_average": 5.888,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+            "belongs_to_collection": {
+                "id": 489724,
+                "name": "The Trolls Collection",
+                "poster_path": "/i4aII37O184x7K3dC7fpF9CAfS4.jpg",
+                "backdrop_path": "/xtgonS6wcxK5RfnWWohYZF3mhjM.jpg"
+            },
+            "budget": 95000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "https://www.delfi.lt",
+            "id": 901362,
+            "imdb_id": "tt14362112",
+            "original_language": "en",
+            "original_title": "Trolls Band Together",
+            "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+            "popularity": 568.816,
+            "poster_path": "/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+            "production_companies": [
+                {
+                    "id": 521,
+                    "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+                    "name": "DreamWorks Animation",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-10-12",
+            "revenue": 191800000,
+            "runtime": 92,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Lithuanian",
+                    "iso_639_1": "lt",
+                    "name": "Lietuvi\u0173"
+                }
+            ],
+            "status": "Released",
+            "tagline": "There are some new trolls on the block.",
+            "title": "Trolls Band Together",
+            "video": false,
+            "vote_average": 7.131,
+            "vote_count": 408
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "belongs_to_collection": null,
+            "budget": 100000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "homepage": "http://www.oppenheimermovie.com",
+            "id": 872585,
+            "imdb_id": "tt15398776",
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "popularity": 635.446,
+            "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "production_companies": [
+                {
+                    "id": 9996,
+                    "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+                    "name": "Syncopy",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 507,
+                    "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+                    "name": "Atlas Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-07-19",
+            "revenue": 951469265,
+            "runtime": 181,
+            "spoken_languages": [
+                {
+                    "english_name": "Dutch",
+                    "iso_639_1": "nl",
+                    "name": "Nederlands"
+                },
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The world forever changes.",
+            "title": "Oppenheimer",
+            "video": false,
+            "vote_average": 8.13,
+            "vote_count": 5574
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bWIIWhnaoWx3FTVXv6GkYDv3djL.jpg",
+            "belongs_to_collection": null,
+            "budget": 13000000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "homepage": "https://tickets.godzilla.com",
+            "id": 940721,
+            "imdb_id": "tt23289160",
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9-1.0",
+            "overview": "In postwar Japan, a new terror rises. Will the devastated people be able to survive... let alone fight back?",
+            "popularity": 313.411,
+            "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+            "production_companies": [
+                {
+                    "id": 882,
+                    "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+                    "name": "TOHO",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 182161,
+                    "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
+                    "name": "TOHO Studios",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 12386,
+                    "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
+                    "name": "Robot Communications",
+                    "origin_country": "JP"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "JP",
+                    "name": "Japan"
+                }
+            ],
+            "release_date": "2023-11-03",
+            "revenue": 74000000,
+            "runtime": 125,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Japanese",
+                    "iso_639_1": "ja",
+                    "name": "\u65e5\u672c\u8a9e"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Postwar Japan. From zero to minus.",
+            "title": "Godzilla Minus One",
+            "video": false,
+            "vote_average": 8.05,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ptz5ETMxDoRRiE69BVuIxJzyTEO.jpg",
+            "belongs_to_collection": null,
+            "budget": 72000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "homepage": "https://www.migration.movie",
+            "id": 940551,
+            "imdb_id": "tt6495056",
+            "original_language": "en",
+            "original_title": "Migration",
+            "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+            "popularity": 298.668,
+            "poster_path": "/kJG74Y1RxLLjRLYOTrBclWpbvkz.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6704,
+                    "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+                    "name": "Illumination",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-12-06",
+            "revenue": 39700000,
+            "runtime": 83,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Odd ducks welcome.",
+            "title": "Migration",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "belongs_to_collection": null,
+            "budget": 200000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "https://movies.disney.com/elemental",
+            "id": 976573,
+            "imdb_id": "tt15789038",
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+            "popularity": 298.245,
+            "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+            "production_companies": [
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3,
+                    "logo_path": "/bqGuVkQKYSGixzO9YA6q8PCIWjT.png",
+                    "name": "Pixar",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-06-14",
+            "revenue": 496000000,
+            "runtime": 102,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Opposites react.",
+            "title": "Elemental",
+            "video": false,
+            "vote_average": 7.715,
+            "vote_count": 3263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+            "belongs_to_collection": null,
+            "budget": 175000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "homepage": "https://movies.disney.com/wish",
+            "id": 1022796,
+            "imdb_id": "tt11304740",
+            "original_language": "en",
+            "original_title": "Wish",
+            "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force \u2013 a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+            "popularity": 257.568,
+            "poster_path": "/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+            "production_companies": [
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6125,
+                    "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+                    "name": "Walt Disney Animation Studios",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-11-13",
+            "revenue": 144460919,
+            "runtime": 95,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Be careful what you wish for.",
+            "title": "Wish",
+            "video": false,
+            "vote_average": 6.56,
+            "vote_count": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mowTk9LFSr8rW3EG2CUSwzuvx0g.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "homepage": "https://www.tstheerastourfilm.com",
+            "id": 1160164,
+            "imdb_id": "tt28814949",
+            "original_language": "en",
+            "original_title": "TAYLOR SWIFT | THE ERAS TOUR",
+            "overview": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour.",
+            "popularity": 161.642,
+            "poster_path": "/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+            "production_companies": [
+                {
+                    "id": 69922,
+                    "logo_path": "/afnIZUPqGAmPh9rFncRGA2vEVwx.png",
+                    "name": "Taylor Swift Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 154630,
+                    "logo_path": "/edV49cPtxk0z7sKczI5kHXhCi4m.png",
+                    "name": "Silent House Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-10-13",
+            "revenue": 24960000,
+            "runtime": 169,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "It\u2019s been a long time coming.",
+            "title": "TAYLOR SWIFT | THE ERAS TOUR",
+            "video": false,
+            "vote_average": 8.327,
+            "vote_count": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lyHmhoRj3zXSdeCYbs2oOXLCF4K.jpg",
+            "belongs_to_collection": null,
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "https://mavka.ua",
+            "id": 459003,
+            "imdb_id": "tt6685538",
+            "original_language": "uk",
+            "original_title": "\u041c\u0430\u0432\u043a\u0430: \u041b\u0456\u0441\u043e\u0432\u0430 \u043f\u0456\u0441\u043d\u044f",
+            "overview": "Forest soul Mavka faces an impossible choice between her heart and her duty as guardian to the Heart of the Forest, when she falls in love with the talented young human musician Lukas.",
+            "popularity": 169.577,
+            "poster_path": "/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg",
+            "production_companies": [
+                {
+                    "id": 106008,
+                    "logo_path": "/lxEXqPBVaruHI6VtuVzwMLZnfHb.png",
+                    "name": "Animagrad Animation Studio",
+                    "origin_country": "UA"
+                },
+                {
+                    "id": 116025,
+                    "logo_path": null,
+                    "name": "3Beep",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 21652,
+                    "logo_path": "/o5qeK1nhECoVkuIxMO4T6yBYqwX.png",
+                    "name": "FILM.UA Group",
+                    "origin_country": "UA"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "UA",
+                    "name": "Ukraine"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-03-02",
+            "revenue": 17300000,
+            "runtime": 99,
+            "spoken_languages": [
+                {
+                    "english_name": "Ukrainian",
+                    "iso_639_1": "uk",
+                    "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Mavka: The Forest Song",
+            "video": false,
+            "vote_average": 7.326,
+            "vote_count": 555
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p9DKeXp6FPJtAQ1k13Z4zPWrCbN.jpg",
+            "belongs_to_collection": null,
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "https://www.radical.movie",
+            "id": 1058694,
+            "imdb_id": "tt14570440",
+            "original_language": "en",
+            "original_title": "Radical",
+            "overview": "In a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries a radical new method to break through his students\u2019 apathy and unlock their curiosity, their potential\u2026 and maybe even their genius.",
+            "popularity": 156.109,
+            "poster_path": "/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+            "production_companies": [
+                {
+                    "id": 105116,
+                    "logo_path": "/vSLRo64gZM8pWWZAoPsQFji7vkb.png",
+                    "name": "3Pas Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 173035,
+                    "logo_path": "/d509OJIfBFFc12cUxAI6mIY2qzX.png",
+                    "name": "Epic",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 79714,
+                    "logo_path": "/dQfYJjl4wb9RYcD017WPNDbUSnd.png",
+                    "name": "The Lift",
+                    "origin_country": "MX"
+                },
+                {
+                    "id": 210842,
+                    "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+                    "name": "ViX",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7570,
+                    "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+                    "name": "Videocine",
+                    "origin_country": "MX"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "MX",
+                    "name": "Mexico"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-10-19",
+            "revenue": 19900000,
+            "runtime": 127,
+            "spoken_languages": [
+                {
+                    "english_name": "Spanish",
+                    "iso_639_1": "es",
+                    "name": "Espa\u00f1ol"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Think for yourself.",
+            "title": "Radical",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "belongs_to_collection": null,
+            "budget": 86000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "homepage": "https://www.netflix.com/title/81383247",
+            "id": 496450,
+            "imdb_id": "tt10364034",
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite, Cat Noir, to save Paris as a new villain unleashes chaos unto the city.",
+            "popularity": 122.408,
+            "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+            "production_companies": [
+                {
+                    "id": 84713,
+                    "logo_path": "/jrdDt2pV5OF6f4JLOhaGUMT3QO9.png",
+                    "name": "ON Animation Studios",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 140008,
+                    "logo_path": null,
+                    "name": "The Awakening Production",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 2902,
+                    "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+                    "name": "SND",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 79650,
+                    "logo_path": null,
+                    "name": "Zagtoon",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 35136,
+                    "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png",
+                    "name": "Method Animation",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 200503,
+                    "logo_path": "/bnEHN4Hgp8mhEyJQMFPVcgWeDUI.png",
+                    "name": "Fantawild",
+                    "origin_country": "CN"
+                },
+                {
+                    "id": 138896,
+                    "logo_path": "/hKJgmgLUg4OmN0vgvtVoBHdklMe.png",
+                    "name": "Mediawan",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "release_date": "2023-07-05",
+            "revenue": 39357124,
+            "runtime": 107,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "French",
+                    "iso_639_1": "fr",
+                    "name": "Fran\u00e7ais"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The fate of the world is in their hands.",
+            "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+            "video": false,
+            "vote_average": 7.789,
+            "vote_count": 691
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXvx5YJbexKxsVD1NTEARObSnt2.jpg",
+            "belongs_to_collection": null,
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "https://www.anyonebutyou.movie",
+            "id": 1072790,
+            "imdb_id": "tt26047818",
+            "original_language": "en",
+            "original_title": "Anyone But You",
+            "overview": "After an amazing first date, Bea and Ben's fiery attraction turns ice cold \u2014 until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+            "popularity": 124.839,
+            "poster_path": "/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
+            "production_companies": [
+                {
+                    "id": 7291,
+                    "logo_path": "/eo8YnSO7wpUHVEprnMDOUcalhFD.png",
+                    "name": "Olive Bridge Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 184023,
+                    "logo_path": null,
+                    "name": "Fifty-Fifty Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 105052,
+                    "logo_path": null,
+                    "name": "Roth-Kirschenbaum Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 124283,
+                    "logo_path": "/s0pkrY33hW7VQgnqzhLhbIVg0F4.png",
+                    "name": "SK Global Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-12-21",
+            "revenue": 8000000,
+            "runtime": 103,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "They only look like the perfect couple.",
+            "title": "Anyone But You",
+            "video": false,
+            "vote_average": 9.833,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+            "belongs_to_collection": null,
+            "budget": 50000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "https://gkids.com/films/the-boy-and-the-heron/",
+            "id": 508883,
+            "imdb_id": "tt6587046",
+            "original_language": "ja",
+            "original_title": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b",
+            "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+            "popularity": 101.009,
+            "poster_path": "/jDQPkgzerGophKRRn7MKm071vCU.jpg",
+            "production_companies": [
+                {
+                    "id": 10342,
+                    "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+                    "name": "Studio Ghibli",
+                    "origin_country": "JP"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "JP",
+                    "name": "Japan"
+                }
+            ],
+            "release_date": "2023-07-14",
+            "revenue": 121000000,
+            "runtime": 124,
+            "spoken_languages": [
+                {
+                    "english_name": "Japanese",
+                    "iso_639_1": "ja",
+                    "name": "\u65e5\u672c\u8a9e"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Where death comes to an end, life finds a new beginning.",
+            "title": "The Boy and the Heron",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 299
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jBOyi3ibJbVa1imTCcddPUxTVAV.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "https://www.vertigoreleasing.com/movie/there-s-something-in-the-barn",
+            "id": 956920,
+            "imdb_id": "tt23060796",
+            "original_language": "no",
+            "original_title": "There's Something in the Barn",
+            "overview": "An American family fulfills their dream of moving back to their roots after inheriting a remote cabin in the mountains of Norway. But there's a surprise waiting for them.",
+            "popularity": 158.939,
+            "poster_path": "/axrzMJR5VPWYNiW9ArENiMEPTjr.jpg",
+            "production_companies": [
+                {
+                    "id": 68201,
+                    "logo_path": "/3Vog1dP5hSbutyzNZf9zvM2RGNn.png",
+                    "name": "Don Films",
+                    "origin_country": "FI"
+                },
+                {
+                    "id": 98438,
+                    "logo_path": "/cjkuW0QeX3hcUUBkZFFCiYmZvcr.png",
+                    "name": "74 Entertainment",
+                    "origin_country": "NO"
+                },
+                {
+                    "id": 102874,
+                    "logo_path": "/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png",
+                    "name": "Charades",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FI",
+                    "name": "Finland"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "NO",
+                    "name": "Norway"
+                }
+            ],
+            "release_date": "2023-11-02",
+            "revenue": 662030,
+            "runtime": 100,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Norwegian",
+                    "iso_639_1": "no",
+                    "name": "Norsk"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Traditions die hard!",
+            "title": "There's Something in the Barn",
+            "video": false,
+            "vote_average": 6.975,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+            "belongs_to_collection": null,
+            "budget": 6200000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "homepage": "http://anatomyofafall.film",
+            "id": 915935,
+            "imdb_id": "tt17009710",
+            "original_language": "fr",
+            "original_title": "Anatomie d'une chute",
+            "overview": "A woman is suspected of her husband\u2019s murder, and their blind son faces a moral dilemma as the sole witness.",
+            "popularity": 96.681,
+            "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+            "production_companies": [
+                {
+                    "id": 58568,
+                    "logo_path": "/2qxPHPKa29w2MsaPKpYRfBnQcyq.png",
+                    "name": "Les Films de Pierre",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 12389,
+                    "logo_path": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
+                    "name": "Les Films Pell\u00e9as",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 83,
+                    "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+                    "name": "France 2 Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 109756,
+                    "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+                    "name": "Auvergne-Rh\u00f4ne-Alpes Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 10611,
+                    "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+                    "name": "Cin\u00e9+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 7131,
+                    "logo_path": "/eLvjHPYZ12GR58lrDgg6MXZp2a3.png",
+                    "name": "France T\u00e9l\u00e9visions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 310,
+                    "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+                    "name": "CNC",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 127792,
+                    "logo_path": null,
+                    "name": "R\u00e9gion Nouvelle-Aquitaine",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 135234,
+                    "logo_path": "/qB39HrFJ596fL6IYwQVr0JMtjDN.png",
+                    "name": "R\u00e9gion Auvergne-Rh\u00f4ne-Alpes",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 189223,
+                    "logo_path": null,
+                    "name": "ARTE/Cofinova 18",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 5125,
+                    "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+                    "name": "Le Pacte",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 202364,
+                    "logo_path": null,
+                    "name": "Cin\u00e9mage 16",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "release_date": "2023-08-23",
+            "revenue": 18400000,
+            "runtime": 152,
+            "spoken_languages": [
+                {
+                    "english_name": "German",
+                    "iso_639_1": "de",
+                    "name": "Deutsch"
+                },
+                {
+                    "english_name": "French",
+                    "iso_639_1": "fr",
+                    "name": "Fran\u00e7ais"
+                },
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Did she do it?",
+            "title": "Anatomy of a Fall",
+            "video": false,
+            "vote_average": 7.73,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/50stq3Jlny6oEgJjsXbQvbajCNw.jpg",
+            "belongs_to_collection": null,
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "http://a24films.com/films/priscilla",
+            "id": 1020006,
+            "imdb_id": "tt22041854",
+            "original_language": "en",
+            "original_title": "Priscilla",
+            "overview": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
+            "popularity": 76.412,
+            "poster_path": "/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+            "production_companies": [
+                {
+                    "id": 70,
+                    "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+                    "name": "American Zoetrope",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 128344,
+                    "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
+                    "name": "The Apartment Pictures",
+                    "origin_country": "IT"
+                },
+                {
+                    "id": 121813,
+                    "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+                    "name": "Fremantle",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-10-27",
+            "revenue": 20800000,
+            "runtime": 110,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Wife to the king. Icon to the world. Destined for more.",
+            "title": "Priscilla",
+            "video": false,
+            "vote_average": 7.133,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gsVC7HMf4VR2XFOyqjTSklY2Tms.jpg",
+            "belongs_to_collection": null,
+            "budget": 35000000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "https://www.searchlightpictures.com/films/poor-things",
+            "id": 792307,
+            "imdb_id": "tt14230458",
+            "original_language": "en",
+            "original_title": "Poor Things",
+            "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "popularity": 87.309,
+            "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "production_companies": [
+                {
+                    "id": 127929,
+                    "logo_path": "/fCB4AVYvxxDvqumgYqsN6ehyN3G.png",
+                    "name": "Searchlight Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6705,
+                    "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+                    "name": "Film4 Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 22213,
+                    "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                    "name": "TSG Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3353,
+                    "logo_path": "/qv2v9HaStUTRjqonODM29YG0oFX.png",
+                    "name": "Element Pictures",
+                    "origin_country": "IE"
+                },
+                {
+                    "id": 72597,
+                    "logo_path": null,
+                    "name": "Limp",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 138287,
+                    "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+                    "name": "Fruit Tree",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IE",
+                    "name": "Ireland"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-12-07",
+            "revenue": 5000000,
+            "runtime": 141,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "French",
+                    "iso_639_1": "fr",
+                    "name": "Fran\u00e7ais"
+                },
+                {
+                    "english_name": "Portuguese",
+                    "iso_639_1": "pt",
+                    "name": "Portugu\u00eas"
+                }
+            ],
+            "status": "Released",
+            "tagline": "She's like nothing you've ever seen.",
+            "title": "Poor Things",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rmfIhftLXpHEZzkLSpWQMZhirMJ.jpg",
+            "belongs_to_collection": null,
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "https://a24films.com/films/dream-scenario",
+            "id": 823482,
+            "imdb_id": "tt21942866",
+            "original_language": "en",
+            "original_title": "Dream Scenario",
+            "overview": "Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+            "popularity": 121.8,
+            "poster_path": "/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
+            "production_companies": [
+                {
+                    "id": 41077,
+                    "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                    "name": "A24",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 123620,
+                    "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+                    "name": "Square Peg",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-11-10",
+            "revenue": 6777038,
+            "runtime": 102,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Meet the man of your dreams.",
+            "title": "Dream Scenario",
+            "video": false,
+            "vote_average": 7.25,
+            "vote_count": 90
+        }
+    ]
+}

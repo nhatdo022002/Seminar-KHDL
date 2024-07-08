@@ -1,0 +1,3096 @@
+{
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bYvQfuqbelrw8Ty9e8zVciAyAfN.jpg",
+            "belongs_to_collection": null,
+            "budget": 9000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 47359,
+            "imdb_id": "tt0087968",
+            "original_language": "en",
+            "original_title": "Racing with the Moon",
+            "overview": "In a small coastal California town, Henry and Nicky are pals from blue collar families with only a short time before they ship off to World War II. Henry begins romancing new-to-town Caddie Winger, believing her to be wealthy. Mischievous and irresponsible, Nicky gets into trouble which forces the other two to become involved, testing their relationship, as well as the friendship between the boys.",
+            "popularity": 7.223,
+            "poster_path": "/BiQhuJJTUS2TuG7Ln7K8w0MebX.jpg",
+            "production_companies": [
+                {
+                    "id": 14361,
+                    "logo_path": null,
+                    "name": "Jaffe-Lansing",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1984-03-23",
+            "revenue": 6045657,
+            "runtime": 108,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "It was 1943. And young men were counting the days before they went off to war...",
+            "title": "Racing with the Moon",
+            "video": false,
+            "vote_average": 6.115,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rR5GhPfulwOHeEbvuom8gwgo2i9.jpg",
+            "belongs_to_collection": null,
+            "budget": 18000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "",
+            "id": 10013,
+            "imdb_id": "tt0091738",
+            "original_language": "en",
+            "original_title": "Peggy Sue Got Married",
+            "overview": "Peggy Sue faints at a high school reunion. When she wakes up she finds herself in her own past, just before she finished school.",
+            "popularity": 15.571,
+            "poster_path": "/nhxj5XmhWeZbWH6LP8IRenyEjbt.jpg",
+            "production_companies": [
+                {
+                    "id": 70,
+                    "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+                    "name": "American Zoetrope",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 559,
+                    "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+                    "name": "TriStar Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1986-10-10",
+            "revenue": 41382841,
+            "runtime": 103,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Knowing what you know now, what would you do differently?",
+            "title": "Peggy Sue Got Married",
+            "video": false,
+            "vote_average": 6.123,
+            "vote_count": 496
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
+            "belongs_to_collection": null,
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 2039,
+            "imdb_id": "tt0093565",
+            "original_language": "en",
+            "original_title": "Moonstruck",
+            "overview": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples about aggressively pursuing her while Johnny is out of the country. As Loretta falls for Ronny, she learns that she's not the only one in her family with a secret romance.",
+            "popularity": 21.293,
+            "poster_path": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+            "production_companies": [
+                {
+                    "id": 67823,
+                    "logo_path": null,
+                    "name": "Star Partners",
+                    "origin_country": ""
+                },
+                {
+                    "id": 21,
+                    "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 216321,
+                    "logo_path": null,
+                    "name": "Patrick Palmer & Norman Jewison Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1987-12-16",
+            "revenue": 80640528,
+            "runtime": 102,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Italian",
+                    "iso_639_1": "it",
+                    "name": "Italiano"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Life. Family. Love.",
+            "title": "Moonstruck",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 834
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/95cYzbSp13ChoUYlDwj1fPL4Q6X.jpg",
+            "belongs_to_collection": null,
+            "budget": 6000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": "",
+            "id": 378,
+            "imdb_id": "tt0093822",
+            "original_language": "en",
+            "original_title": "Raising Arizona",
+            "overview": "When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+            "popularity": 16.053,
+            "poster_path": "/tPX13Qpq1SjqPzzMIaFtL8G4lYA.jpg",
+            "production_companies": [
+                {
+                    "id": 11273,
+                    "logo_path": null,
+                    "name": "Circle Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1987-03-01",
+            "revenue": 29180280,
+            "runtime": 94,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Their lawless years are behind them. Their child-rearing years lay ahead...",
+            "title": "Raising Arizona",
+            "video": false,
+            "vote_average": 7.044,
+            "vote_count": 1901
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aj4oy16UBa6YBAAMdF2GkOhmsZ3.jpg",
+            "belongs_to_collection": null,
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "homepage": "",
+            "id": 7091,
+            "imdb_id": "tt0098577",
+            "original_language": "en",
+            "original_title": "Vampire's Kiss",
+            "overview": "A publishing executive is visited and bitten by a vampire and starts exhibiting erratic behavior. He pushes his secretary to extremes as he tries to come to terms with his affliction. The vampire continues to visit and drink his blood, and as his madness deepens, it begins to look as if some of the events he's experiencing may be hallucinations.",
+            "popularity": 14.232,
+            "poster_path": "/t00LwRov53P1K1lefEfUDKggDmW.jpg",
+            "production_companies": [
+                {
+                    "id": 60303,
+                    "logo_path": null,
+                    "name": "Magellan Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 469,
+                    "logo_path": null,
+                    "name": "Hemdale Film Corporation",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1988-09-17",
+            "revenue": 725131,
+            "runtime": 103,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Seduction. Romance. Murder. The things one does for love.",
+            "title": "Vampire's Kiss",
+            "video": false,
+            "vote_average": 5.987,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dh0PHjz4GKgR1PCkB6xH7g6PCuM.jpg",
+            "belongs_to_collection": null,
+            "budget": 19000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "https://www.sonypictures.com/movies/adaptation",
+            "id": 2757,
+            "imdb_id": "tt0268126",
+            "original_language": "en",
+            "original_title": "Adaptation.",
+            "overview": "Nicolas Cage is Charlie Kaufman, a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+            "popularity": 13.292,
+            "poster_path": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 278,
+                    "logo_path": "/r3Aya3Sy7f24t6Waaug3mQn6ew7.png",
+                    "name": "Propaganda Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10565,
+                    "logo_path": "/5djnxodjmgbzdXiNRllwhQPxANY.png",
+                    "name": "Good Machine",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8856,
+                    "logo_path": "/hlbfz8l0yIXhMn7EecL0JVSeceE.png",
+                    "name": "Intermedia",
+                    "origin_country": ""
+                },
+                {
+                    "id": 267,
+                    "logo_path": null,
+                    "name": "Beverly Detroit",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1274,
+                    "logo_path": "/lGEGe7gVCVNexgGXSEo8mBObJrw.png",
+                    "name": "Clinica Estetico",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2002-12-06",
+            "revenue": 32801173,
+            "runtime": 115,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Latin",
+                    "iso_639_1": "la",
+                    "name": "Latin"
+                }
+            ],
+            "status": "Released",
+            "tagline": "From the creator of Being John Malkovich, comes the story about the creator of Being John Malkovich.",
+            "title": "Adaptation.",
+            "video": false,
+            "vote_average": 7.362,
+            "vote_count": 2283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zT7GDvQl2zgs0p3Z2wGwxsaEjNZ.jpg",
+            "belongs_to_collection": null,
+            "budget": 50000000,
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "homepage": "http://www.theantbully.com",
+            "id": 9906,
+            "imdb_id": "tt0429589",
+            "original_language": "en",
+            "original_title": "The Ant Bully",
+            "overview": "Fed up with being targeted by the neighborhood bully, 10-year-old Lucas Nickle vents his frustrations on the anthill in his front yard ... until the insects shrink him to the size of a bug with a magic elixir. Convicted of \"crimes against the colony,\" Lucas can only regain his freedom by living with the ants and learning their ways.",
+            "popularity": 25.645,
+            "poster_path": "/oFuqX0inTvbA1XAFv2x3CQnI65m.jpg",
+            "production_companies": [
+                {
+                    "id": 89136,
+                    "logo_path": "/5w19JCYpAshGGSIh1fTgwswl4DC.png",
+                    "name": "DNA Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4171,
+                    "logo_path": "/ip8rzankhLLhJGGkvfCirfUM26d.png",
+                    "name": "Playtone",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 923,
+                    "logo_path": "/8M99Dkt23MjQMTTWukq4m5XsEuo.png",
+                    "name": "Legendary Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/9tefnXnJLGQL97cxs6S3EWEhVyx.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2006-07-28",
+            "revenue": 55181129,
+            "runtime": 88,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The battle for the lawn is on.",
+            "title": "The Ant Bully",
+            "video": false,
+            "vote_average": 5.711,
+            "vote_count": 1293
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 20405,
+            "imdb_id": "tt0492481",
+            "original_language": "en",
+            "original_title": "Puccini for Beginners",
+            "overview": "When her inability to commit leads to a breakup with her girlfriend, opera-loving writer Allegra winds up in the bed of amiable professor Philip. He is so smitten with Allegra that he dumps his lover, Grace, and convinces Allegra to continue their affair. When Allegra meets Grace, sparks fly, and she begins a parallel romance, unaware that her new lover is the woman Philip left to be with her.",
+            "popularity": 4.205,
+            "poster_path": "/b5yBAYkXa6jSfBr0iayon8CkXC9.jpg",
+            "production_companies": [
+                {
+                    "id": 3763,
+                    "logo_path": null,
+                    "name": "Independent Digital Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2006-09-02",
+            "revenue": 89417,
+            "runtime": 82,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "A love triangle of operatic proportions.",
+            "title": "Puccini for Beginners",
+            "video": false,
+            "vote_average": 5.367,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+            "belongs_to_collection": {
+                "id": 179892,
+                "name": "Kick-Ass Collection",
+                "poster_path": "/gKjplfZZWmRMPoBdmJeTHCcGYxV.jpg",
+                "backdrop_path": "/fYMsCXEMguNlSORJIHydfBgOnty.jpg"
+            },
+            "budget": 28000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": "",
+            "id": 23483,
+            "imdb_id": "tt1250777",
+            "original_language": "en",
+            "original_title": "Kick-Ass",
+            "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+            "popularity": 30.664,
+            "poster_path": "/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+            "production_companies": [
+                {
+                    "id": 5374,
+                    "logo_path": "/pMUiImmYANjZUlZFiZMWziQDSs6.png",
+                    "name": "Marv",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 81,
+                    "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+                    "name": "Plan B Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 181992,
+                    "logo_path": null,
+                    "name": "Mandate International",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2010-03-22",
+            "revenue": 96188903,
+            "runtime": 117,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Shut up. Kick-Ass.",
+            "title": "Kick-Ass",
+            "video": false,
+            "vote_average": 7.122,
+            "vote_count": 11108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eeUxTgnKt8ZD6V0AFU6eFN1dd7g.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "homepage": "",
+            "id": 55934,
+            "imdb_id": "tt1497874",
+            "original_language": "en",
+            "original_title": "Cold Weather",
+            "overview": "A guy who moves back to Portland, Oregon becomes involved in the mystery of his ex-girlfriend's disappearance.",
+            "popularity": 4.114,
+            "poster_path": "/veV9i4eEeUKvZOyHWrkjwiVIQtp.jpg",
+            "production_companies": [
+                {
+                    "id": 6531,
+                    "logo_path": null,
+                    "name": "Parts and Labor",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7203,
+                    "logo_path": null,
+                    "name": "Parts and Weather",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2010-03-13",
+            "revenue": 0,
+            "runtime": 96,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Cold Weather",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ctkL5izZ0W0f3TjM2Zb80pHJ6V9.jpg",
+            "belongs_to_collection": null,
+            "budget": 3200000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "http://focusfeatures.com/beginners",
+            "id": 55347,
+            "imdb_id": "tt1532503",
+            "original_language": "en",
+            "original_title": "Beginners",
+            "overview": "Oliver meets the irreverent and unpredictable Anna only months after his father Hal Fields has passed away. This new love floods Oliver with memories of his father, who, following the death of his wife of 44 years, came out of the closet at age 75 to live a full, energized, and wonderfully tumultuous gay life \u2013 which included a younger boyfriend.",
+            "popularity": 8.876,
+            "poster_path": "/io2Tm89or3jO2pDtEAPEACx4wUe.jpg",
+            "production_companies": [
+                {
+                    "id": 6531,
+                    "logo_path": null,
+                    "name": "Parts and Labor",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7400,
+                    "logo_path": null,
+                    "name": "Olympus Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2011-06-09",
+            "revenue": 14311701,
+            "runtime": 105,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "French",
+                    "iso_639_1": "fr",
+                    "name": "Fran\u00e7ais"
+                }
+            ],
+            "status": "Released",
+            "tagline": "This is what love feels like.",
+            "title": "Beginners",
+            "video": false,
+            "vote_average": 6.846,
+            "vote_count": 961
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+            "belongs_to_collection": {
+                "id": 464577,
+                "name": "The Croods Collection",
+                "poster_path": "/xXkgOq23Me45PHXsCPQz5nvmlXt.jpg",
+                "backdrop_path": "/8MjzBahFKCuQbwytpPPds7qboQa.jpg"
+            },
+            "budget": 65000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "https://www.dreamworks.com/movies/the-croods-2",
+            "id": 529203,
+            "imdb_id": "tt2850386",
+            "original_language": "en",
+            "original_title": "The Croods: A New Age",
+            "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+            "popularity": 55.851,
+            "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 521,
+                    "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+                    "name": "DreamWorks Animation",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2020-11-25",
+            "revenue": 215905815,
+            "runtime": 95,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The future ain't what it used to be.",
+            "title": "The Croods: A New Age",
+            "video": false,
+            "vote_average": 7.512,
+            "vote_count": 3576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ndkyB3JC1egoaIc0QKq4t6rn9p6.jpg",
+            "belongs_to_collection": null,
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 12518,
+            "imdb_id": "tt0104438",
+            "original_language": "en",
+            "original_title": "Honeymoon in Vegas",
+            "overview": "On her deathbed, a mother makes her son promise never to get married, which scars him with psychological blocks to a commitment with his girlfriend. They finally decide to tie the knot in Vegas, but a wealthy gambler arranges for the man to lose $65K in a poker game and offers to clear the debt for a weekend with his fianc\u00e9e.",
+            "popularity": 8.687,
+            "poster_path": "/b2HyG1tgaYxavfvjw1BG3PLr8Sk.jpg",
+            "production_companies": [
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 97,
+                    "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+                    "name": "Castle Rock Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1992-08-28",
+            "revenue": 35208854,
+            "runtime": 96,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "A comedy about one bride, two grooms, and 34 flying Elvises.",
+            "title": "Honeymoon in Vegas",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/MPkbcY7CXGXkyNGrqshcF0NYVp.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 31000,
+            "imdb_id": "tt0106266",
+            "original_language": "en",
+            "original_title": "Amos & Andrew",
+            "overview": "When Andrew Sterling, a successful black urbanite writer, buys a vacation home on a resort in New England the police mistake him for a burglar. After surrounding his home with armed men, Chief Tolliver realizes his mistake and to avoid the bad publicity offers a thief in his jail, Amos Odell a deal.",
+            "popularity": 7.513,
+            "poster_path": "/IdhtO8iqvmyEJtcjThthZPOiaV.jpg",
+            "production_companies": [
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 97,
+                    "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+                    "name": "Castle Rock Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1993-03-05",
+            "revenue": 9745803,
+            "runtime": 96,
+            "spoken_languages": [
+                {
+                    "english_name": "Spanish",
+                    "iso_639_1": "es",
+                    "name": "Espa\u00f1ol"
+                },
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Misunderstood. Misplaced. Mismatched.",
+            "title": "Amos & Andrew",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7gCdtbqui8KqauL1gSmRrKg6Bin.jpg",
+            "belongs_to_collection": null,
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 10660,
+            "imdb_id": "tt0110167",
+            "original_language": "en",
+            "original_title": "It Could Happen to You",
+            "overview": "Charlie Lang is a simple, kindhearted New York City cop. When he realizes he has no money to tip waitress Yvonne Biasi, Lang offers her half the winnings of his lottery ticket. Amazingly, the ticket happens to be a winner, in the sum of $4 million. True to his word, Lang proceeds to share the prize money with Biasi, which infuriates his greedy wife, Muriel. Not content with the arrangement, Muriel begins scheming to take all the money.",
+            "popularity": 16.85,
+            "poster_path": "/6UOaeLDOdwwTMQtbl5YL6EGjqy0.jpg",
+            "production_companies": [
+                {
+                    "id": 559,
+                    "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+                    "name": "TriStar Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1994-07-29",
+            "revenue": 37939757,
+            "runtime": 101,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "A cop. A waitress. A lottery ticket.",
+            "title": "It Could Happen to You",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EKPfRFMl9rV55gcXP8wWfOC5YP.jpg",
+            "belongs_to_collection": null,
+            "budget": 60000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "",
+            "id": 5994,
+            "imdb_id": "tt0218967",
+            "original_language": "en",
+            "original_title": "The Family Man",
+            "overview": "Jack's lavish, fast-paced lifestyle changes one Christmas night when he stumbles into a grocery store holdup and disarms the gunman. The next morning he wakes up in bed lying next to Kate, his college sweetheart he left in order to pursue his career, and to the horrifying discovery that his former life no longer exists. As he stumbles through this alternate suburban universe, Jack finds himself at a crossroad where he must choose between his high-power career and the woman he loves.",
+            "popularity": 42.571,
+            "poster_path": "/zsedbiD7i2SepxIxb0F3U95mqyH.jpg",
+            "production_companies": [
+                {
+                    "id": 10157,
+                    "logo_path": null,
+                    "name": "Beacon Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5892,
+                    "logo_path": "/AlfRSqTMw9RIHR2RIzy4pkcaXnY.png",
+                    "name": "Buena Vista International",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2000-12-12",
+            "revenue": 124700000,
+            "runtime": 125,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "What if you made different choices? What if you said yes, instead of no? What if you got a second chance?",
+            "title": "The Family Man",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1778
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 495410,
+            "imdb_id": "tt0253104",
+            "original_language": "en",
+            "original_title": "Godass",
+            "overview": "An off-beat comedy about how having a gay father can be the least of a punk girl's problems.",
+            "popularity": 2.893,
+            "poster_path": "/kqEr1N7EOkr6sMA3CBJQe16VxNj.jpg",
+            "production_companies": [
+                {
+                    "id": 158442,
+                    "logo_path": null,
+                    "name": "Hell's Bells",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2000-03-12",
+            "revenue": 0,
+            "runtime": 73,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Every girl needs one!",
+            "title": "Godass",
+            "video": false,
+            "vote_average": 1.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AcJX9aPpdSa1lfUxqgFOLljbDcm.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 20718,
+            "imdb_id": "tt0282593",
+            "original_language": "en",
+            "original_title": "I'm with Lucy",
+            "overview": "It's an hour before Lucy's wedding and her best friend wants to hear all about what led up to that moment. So, Lucy tells about the five men she had blind dates with over the past year (Doug, Gabriel, Bobby, Barry, and Luke) and her experiences with each one. But which one of the five men is Lucy about to walk down the aisle with?",
+            "popularity": 3.388,
+            "poster_path": "/iz4zN7fGHxvJS5BuXWSFIWWv9kT.jpg",
+            "production_companies": [
+                {
+                    "id": 3830,
+                    "logo_path": null,
+                    "name": "Acme Date",
+                    "origin_country": ""
+                },
+                {
+                    "id": 9,
+                    "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+                    "name": "Gaumont",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 136251,
+                    "logo_path": null,
+                    "name": "Fabulous Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "release_date": "2002-09-04",
+            "revenue": 0,
+            "runtime": 90,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Spanish",
+                    "iso_639_1": "es",
+                    "name": "Espa\u00f1ol"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Five handsome bachelors. One lucky woman.",
+            "title": "I'm with Lucy",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKHxmOZnNRjeLMhvrH61MJtcrme.jpg",
+            "belongs_to_collection": null,
+            "budget": 62000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "homepage": "",
+            "id": 7270,
+            "imdb_id": "tt0325805",
+            "original_language": "en",
+            "original_title": "Matchstick Men",
+            "overview": "A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly.",
+            "popularity": 11.734,
+            "poster_path": "/mW6HZe1aoipzH8U7ucjma6E3LLx.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/9tefnXnJLGQL97cxs6S3EWEhVyx.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11395,
+                    "logo_path": "/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png",
+                    "name": "ImageMovers",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1645,
+                    "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+                    "name": "Scott Free Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 2201,
+                    "logo_path": null,
+                    "name": "Rickshaw Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7161,
+                    "logo_path": null,
+                    "name": "LivePlanet",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2003-09-12",
+            "revenue": 65565672,
+            "runtime": 116,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Lie. Cheat. Steal. Rinse. Repeat.",
+            "title": "Matchstick Men",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1591
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/73MUJRFc8lfEtTaM7YtNdPhVHpp.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 32298,
+            "imdb_id": "tt0362129",
+            "original_language": "en",
+            "original_title": "Seeing Other People",
+            "overview": "Ed and Alice are two months shy of getting married when she realizes that she wishes she'd had a more active love life while still single. Reluctantly, Ed agrees to have an open relationship in the months before their wedding, and initially this seems to improve their connection, particularly in the bedroom. However, as Ed and Alice get more involved in their own flings, the experiment goes awry.",
+            "popularity": 3.687,
+            "poster_path": "/79BzDZv6oxZn1Z8RvVT35DXiMcd.jpg",
+            "production_companies": [
+                {
+                    "id": 11733,
+                    "logo_path": null,
+                    "name": "Pariah",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2004-05-07",
+            "revenue": 0,
+            "runtime": 90,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Get it out of your system.",
+            "title": "Seeing Other People",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eec2tDpexGhAQOjwSno13PFP978.jpg",
+            "belongs_to_collection": null,
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 72358,
+            "imdb_id": "tt0763831",
+            "original_language": "en",
+            "original_title": "A Thousand Words",
+            "overview": "Jack McCall is a fast-talking literary agent, who can close any deal, any time, any way. He has set his sights on New Age guru Dr. Sinja for his own selfish purposes. But Dr. Sinja is on to him, and Jack\u2019s life comes unglued after a magical Bodhi tree mysteriously appears in his backyard. With every word Jack speaks, a leaf falls from the tree and he realizes that when the last leaf falls, both he and the tree are toast. Words have never failed Jack McCall, but now he\u2019s got to stop talking and conjure up some outrageous ways to communicate or he\u2019s a goner.",
+            "popularity": 17.657,
+            "poster_path": "/4BoeDiKFqKwq4mfU8ITDLglFyoc.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6024,
+                    "logo_path": null,
+                    "name": "Varsity Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7,
+                    "logo_path": "/1kqoutvio9eDaQpp0l4gQoEF4Yf.png",
+                    "name": "DreamWorks Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2012-03-07",
+            "revenue": 22044277,
+            "runtime": 91,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "He only has 1000 words left to discover what matters the most.",
+            "title": "A Thousand Words",
+            "video": false,
+            "vote_average": 6.087,
+            "vote_count": 1241
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 29151,
+            "imdb_id": "tt0790627",
+            "original_language": "en",
+            "original_title": "Brief Interviews with Hideous Men",
+            "overview": "After her boyfriend mysteriously leaves her with little explanation, a doctoral candidate in anthropology at a prestigious East Coast university Sara Quinn is left looking for answers as to what went wrong.",
+            "popularity": 5.855,
+            "poster_path": "/zCPz6WJLs4WAHcLnwbHfkiO578O.jpg",
+            "production_companies": [
+                {
+                    "id": 66334,
+                    "logo_path": null,
+                    "name": "Woodshed Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 57094,
+                    "logo_path": "/m3oDIxJnkPDmli4y4ee9rj1k6xJ.png",
+                    "name": "Salty Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 188055,
+                    "logo_path": null,
+                    "name": "Sunday Night Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2009-09-25",
+            "revenue": 33745,
+            "runtime": 80,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Brief Interviews with Hideous Men",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+            "belongs_to_collection": null,
+            "budget": 65000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "https://www.renfieldmovie.com",
+            "id": 649609,
+            "imdb_id": "tt11358390",
+            "original_language": "en",
+            "original_title": "Renfield",
+            "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life \u2014 and maybe even redemption \u2014 when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "popularity": 46.061,
+            "poster_path": "/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg",
+            "production_companies": [
+                {
+                    "id": 50032,
+                    "logo_path": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+                    "name": "Skybound Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 197279,
+                    "logo_path": null,
+                    "name": "Giant Wildcat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-04-07",
+            "revenue": 26400000,
+            "runtime": 93,
+            "spoken_languages": [
+                {
+                    "english_name": "Thai",
+                    "iso_639_1": "th",
+                    "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+                },
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Sucks to be him.",
+            "title": "Renfield",
+            "video": false,
+            "vote_average": 6.663,
+            "vote_count": 1202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/63QcB4IQpvoyROk9dLgcbHo9LYT.jpg",
+            "belongs_to_collection": null,
+            "budget": 50000000,
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": "http://www.driveangry3d.co.uk/",
+            "id": 47327,
+            "imdb_id": "tt1502404",
+            "original_language": "en",
+            "original_title": "Drive Angry",
+            "overview": "Milton is a hardened felon who has broken out of Hell, intent on finding the vicious cult who brutally murdered his daughter and kidnapped her baby. He joins forces with a sexy, tough-as-nails waitress, who's also seeking redemption of her own. Caught in a deadly race against time, Milton has three days to avoid capture, avenge his daughter's death, and save her baby before she's mercilessly sacrificed by the cult.",
+            "popularity": 25.215,
+            "poster_path": "/g0hQNqLkPZC5wOnNhzUH0KvPda4.jpg",
+            "production_companies": [
+                {
+                    "id": 491,
+                    "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+                    "name": "Summit Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 925,
+                    "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+                    "name": "Nu Image",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11370,
+                    "logo_path": null,
+                    "name": "Michael De Luca Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1020,
+                    "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                    "name": "Millennium Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2011-02-24",
+            "revenue": 40909909,
+            "runtime": 105,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "One hell of a ride.",
+            "title": "Drive Angry",
+            "video": false,
+            "vote_average": 5.472,
+            "vote_count": 1715
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkgoxCfvLJeaA7LT7ewL9T0rMvC.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "http://sleepwalkwithmike.com/",
+            "id": 84340,
+            "imdb_id": "tt2077851",
+            "original_language": "en",
+            "original_title": "Sleepwalk with Me",
+            "overview": "A burgeoning stand-up comedian struggles with the stress of a stalled career, a stale relationship, and the wild spurts of severe sleepwalking he is desperate to ignore.",
+            "popularity": 6.052,
+            "poster_path": "/vs2wxfMrV48VWKTGbsYstIWrwI1.jpg",
+            "production_companies": [
+                {
+                    "id": 95035,
+                    "logo_path": null,
+                    "name": "Sleepwalkers Anonymous",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2012-08-24",
+            "revenue": 0,
+            "runtime": 81,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "A comedy for anyone who's ever had a dream. And then jumped out a window.",
+            "title": "Sleepwalk with Me",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rmfIhftLXpHEZzkLSpWQMZhirMJ.jpg",
+            "belongs_to_collection": null,
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "https://a24films.com/films/dream-scenario",
+            "id": 823482,
+            "imdb_id": "tt21942866",
+            "original_language": "en",
+            "original_title": "Dream Scenario",
+            "overview": "Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+            "popularity": 121.8,
+            "poster_path": "/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
+            "production_companies": [
+                {
+                    "id": 41077,
+                    "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                    "name": "A24",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 123620,
+                    "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+                    "name": "Square Peg",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-11-10",
+            "revenue": 6777038,
+            "runtime": 102,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Meet the man of your dreams.",
+            "title": "Dream Scenario",
+            "video": false,
+            "vote_average": 7.25,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3WxwhEjfrSJko0o4KLMFVFYDoJA.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "homepage": "",
+            "id": 321030,
+            "imdb_id": "tt3662066",
+            "original_language": "en",
+            "original_title": "One More Time",
+            "overview": "Beautiful aspiring rock star Jude is stuck in a rut - relegated to recording commercial jingles and lost in a series of one night stands. When she is evicted from her Brooklyn apartment, she is forced to move into the Hamptons home of her wealthy - and selfish - father Paul Lombard, an over-the-hill, Sinatra-esque crooner angling for a musical comeback.",
+            "popularity": 6.021,
+            "poster_path": "/yrZ1azTISRD91tcYCeMk7lhhYgc.jpg",
+            "production_companies": [
+                {
+                    "id": 6531,
+                    "logo_path": null,
+                    "name": "Parts and Labor",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 26952,
+                    "logo_path": null,
+                    "name": "Maybach Film Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2016-04-08",
+            "revenue": 0,
+            "runtime": 98,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The hardest act to follow is your father's.",
+            "title": "One More Time",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/agIWhgS45CfgU3EyodFIdqVo8TZ.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 336445,
+            "imdb_id": "tt4382824",
+            "original_language": "en",
+            "original_title": "Army of One",
+            "overview": "Gary Faulkner is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.",
+            "popularity": 12.954,
+            "poster_path": "/9XKBJovNQyNRQo382uQ7woFVJ5G.jpg",
+            "production_companies": [
+                {
+                    "id": 2986,
+                    "logo_path": null,
+                    "name": "Kasbah-Film Tanger",
+                    "origin_country": ""
+                },
+                {
+                    "id": 51513,
+                    "logo_path": "/eWhUrhDH1DapiMCnK7I9f5HPDjd.png",
+                    "name": "Cond\u00e9 Nast Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1205,
+                    "logo_path": "/wQX3t4qtxm7gBQE3RHuoLghgb73.png",
+                    "name": "Endgame Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2016-11-04",
+            "revenue": 0,
+            "runtime": 92,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "One Man's Wildly True Quest To Capture Osama Bin Laden",
+            "title": "Army of One",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/loJeVTot5DionlqKEZiHGjh2xE3.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 401561,
+            "imdb_id": "tt5462326",
+            "original_language": "en",
+            "original_title": "Mom and Dad",
+            "overview": "In a suburban community, moms and dads, one after the other, mysteriously feel the irresistible impulse to attack and kill their own offspring.",
+            "popularity": 12.707,
+            "poster_path": "/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg",
+            "production_companies": [
+                {
+                    "id": 35849,
+                    "logo_path": "/bHYIJoy2ri7crfHugwR0AdF3qdM.png",
+                    "name": "Armory Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 77951,
+                    "logo_path": null,
+                    "name": "Zeal Media",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2018-01-19",
+            "revenue": 169209,
+            "runtime": 86,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Sometimes they just want to kill you",
+            "title": "Mom and Dad",
+            "video": false,
+            "vote_average": 5.375,
+            "vote_count": 932
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dUtZYAMoTSZ8GYrB0AIYsMe0LvN.jpg",
+            "belongs_to_collection": null,
+            "budget": 11000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "https://www.itonyamovie.com",
+            "id": 389015,
+            "imdb_id": "tt5580036",
+            "original_language": "en",
+            "original_title": "I, Tonya",
+            "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+            "popularity": 34.836,
+            "poster_path": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+            "production_companies": [
+                {
+                    "id": 82968,
+                    "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+                    "name": "LuckyChap Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 101831,
+                    "logo_path": "/l6x0SkRVp9ksGgRhboZbkI9w7PM.png",
+                    "name": "Clubhouse Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2017-12-08",
+            "revenue": 53900000,
+            "runtime": 120,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Fitting in is overrated",
+            "title": "I, Tonya",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 5477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6vbHgdOji2gdAtUOEzLzaewCJzU.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 586459,
+            "imdb_id": "tt9080672",
+            "original_language": "es",
+            "original_title": "Iniciales S.G.",
+            "overview": "An aging, Argentine, Serge Gainsbourg wannabe struggles to deal with a career he can't seem to get on track, an affair he doesn't want, and a crime he didn't mean to commit.",
+            "popularity": 2.733,
+            "poster_path": "/oxwslWnCkuSnEAdzkafym1LGWRR.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AR",
+                    "name": "Argentina"
+                },
+                {
+                    "iso_3166_1": "LB",
+                    "name": "Lebanon"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2019-09-19",
+            "revenue": 0,
+            "runtime": 93,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Spanish",
+                    "iso_639_1": "es",
+                    "name": "Espa\u00f1ol"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Initials S.G.",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/stTmJizMu8LklEIIkSu7NqHchdH.jpg",
+            "belongs_to_collection": null,
+            "budget": 350000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "homepage": "",
+            "id": 19053,
+            "imdb_id": "tt0086525",
+            "original_language": "en",
+            "original_title": "Valley Girl",
+            "overview": "Julie, a girl from the valley, meets Randy, a punk from the city. They are from different worlds and find love. Somehow they need to stay together in spite of her trendy, shallow friends.",
+            "popularity": 15.199,
+            "poster_path": "/mQSrU9jerYSIOWeLBqFA1gcUU59.jpg",
+            "production_companies": [
+                {
+                    "id": 3267,
+                    "logo_path": null,
+                    "name": "Atlantic Entertainment Group",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8784,
+                    "logo_path": null,
+                    "name": "Valley 9000",
+                    "origin_country": ""
+                },
+                {
+                    "id": 18947,
+                    "logo_path": null,
+                    "name": "Atlantic Releasing Corporation",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1983-04-08",
+            "revenue": 17343596,
+            "runtime": 99,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "She's cool. He's hot. She's from the Valley. He's not.",
+            "title": "Valley Girl",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iOC6FnpRhYn3OlGCQtZvMxCsSm.jpg",
+            "belongs_to_collection": null,
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 6472,
+            "imdb_id": "tt0109951",
+            "original_language": "en",
+            "original_title": "Guarding Tess",
+            "overview": "Doug is a Secret Service Agent who has just completed his stint in charge protecting Tess Carlisle\u2014the widow of a former U.S. President, and a close personal friend of the current President. He finds that she has requested that he not be rotated but instead return to be her permanent detail. Doug is crushed, and\u2014after returning\u2014wants off her detail as she is very difficult to guard and makes her detail crazy with her whims and demands.",
+            "popularity": 14.921,
+            "poster_path": "/80dL2Kg5zjEIFAhSrlqHsIF3O3d.jpg",
+            "production_companies": [
+                {
+                    "id": 2099,
+                    "logo_path": null,
+                    "name": "Channel Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 559,
+                    "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+                    "name": "TriStar Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1994-03-11",
+            "revenue": 27058304,
+            "runtime": 96,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Georgian",
+                    "iso_639_1": "ka",
+                    "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+                }
+            ],
+            "status": "Released",
+            "tagline": "A comedy beyond the call of duty.",
+            "title": "Guarding Tess",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jNIqlHr5cYvYbtf5k5PlbsCG0mo.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 23719,
+            "imdb_id": "tt0111477",
+            "original_language": "en",
+            "original_title": "Trapped in Paradise",
+            "overview": "Residents of a friendly Pennsylvania town foil three brothers' plan to rob a bank on Christmas Eve.",
+            "popularity": 27.08,
+            "poster_path": "/A8SyaIUq9d83ZNAwsvVo6TrOA2U.jpg",
+            "production_companies": [
+                {
+                    "id": 455,
+                    "logo_path": null,
+                    "name": "Permut Presentations",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "1994-12-02",
+            "revenue": 5777916,
+            "runtime": 111,
+            "spoken_languages": [
+                {
+                    "english_name": "Italian",
+                    "iso_639_1": "it",
+                    "name": "Italiano"
+                },
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "The Firpo Brothers can get away with anything. They just can't get away!",
+            "title": "Trapped in Paradise",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 217
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 640652,
+            "imdb_id": "tt0221823",
+            "original_language": "en",
+            "original_title": "Bel Air",
+            "overview": "Christopher Coppola's tongue-in-cheek spin on SUNSET BOULEVARD stars brother Marc as a pizza delivery guy who dreams of recapturing his onetime glory as a child television star.",
+            "popularity": 1.711,
+            "poster_path": "/7rpcBHmUXjUVgcphKxywGrDVWIJ.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "release_date": "2000-03-01",
+            "revenue": 0,
+            "runtime": 110,
+            "spoken_languages": [],
+            "status": "Released",
+            "tagline": "",
+            "title": "Bel Air",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wn2zysoNM6QncXEw9MyvSGJ6eS1.jpg",
+            "belongs_to_collection": null,
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 6963,
+            "imdb_id": "tt0384680",
+            "original_language": "en",
+            "original_title": "The Weather Man",
+            "overview": "A Chicago weather man, separated from his wife and children, debates whether professional and personal success are mutually exclusive.",
+            "popularity": 11.072,
+            "poster_path": "/oQilVzOxLPxvBn9hAuvGpKTpONM.jpg",
+            "production_companies": [
+                {
+                    "id": 11930,
+                    "logo_path": null,
+                    "name": "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 2 KG",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1423,
+                    "logo_path": "/1rbAwGQzrNvXDICD6HWEn1YqfAV.png",
+                    "name": "Escape Artists",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 120667,
+                    "logo_path": null,
+                    "name": "The Weather Man",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2005-10-20",
+            "revenue": 12482775,
+            "runtime": 101,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Dave Spritz is about to take his best shot . . . at life",
+            "title": "The Weather Man",
+            "video": false,
+            "vote_average": 6.138,
+            "vote_count": 897
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zZ47ilB3uQloFSV2XLiht0xxi6.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 17179,
+            "imdb_id": "tt0448166",
+            "original_language": "en",
+            "original_title": "Two Weeks",
+            "overview": "In this bittersweet comedy, four adult siblings gather at their dying mother's house in North Carolina for what they expect to be a quick, last goodbye. Instead, they find themselves trapped \u2014 together \u2014 for two weeks.",
+            "popularity": 3.96,
+            "poster_path": "/9PLpbeT8qRttKlf8ID9Le3tIZOk.jpg",
+            "production_companies": [
+                {
+                    "id": 21,
+                    "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2006-01-01",
+            "revenue": 0,
+            "runtime": 102,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Two Weeks",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 47836,
+            "imdb_id": "tt0473363",
+            "original_language": "en",
+            "original_title": "Gretchen",
+            "overview": "Gretchen has bigger problems than abysmal fashion sense: She's 17, painfully awkward and stuck in the most unforgiving place on earth - high school. When her obsession with school bad boy Ricky gets out of hand, her mother sends her to an emotional treatment center to recover. She has to travel elsewhere, however, to truly begin to understand why she fixates on the wrong kind of guy.",
+            "popularity": 1.747,
+            "poster_path": "/u0KlVbzF1QL2uYUnBk7lkcgLLoz.jpg",
+            "production_companies": [
+                {
+                    "id": 4748,
+                    "logo_path": "/bTMeosrSiKaTPmZiTYnSDZlin5d.png",
+                    "name": "Oscilloscope",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2006-08-05",
+            "revenue": 0,
+            "runtime": 98,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Gretchen",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r1xMeJsNMAnBktFpWVm94edtTqu.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": "",
+            "id": 25927,
+            "imdb_id": "tt0976246",
+            "original_language": "en",
+            "original_title": "Staten Island",
+            "overview": "Sully is desperate to give his unborn son the chance he never had. Jasper wants to escape the mobsters that have infiltrated his life and business. Parmie, a local mob boss, dreams of crushing the competition. All three men live in Staten Island, and once their lives intersect, nothing will ever be the same.",
+            "popularity": 6.742,
+            "poster_path": "/dQ7Fr2amTUigFLH55eTRlzVJL9y.jpg",
+            "production_companies": [
+                {
+                    "id": 729,
+                    "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+                    "name": "Why Not Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 6896,
+                    "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+                    "name": "EuropaCorp",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 547,
+                    "logo_path": null,
+                    "name": "Open City Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "release_date": "2009-02-07",
+            "revenue": 0,
+            "runtime": 96,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Portuguese",
+                    "iso_639_1": "pt",
+                    "name": "Portugu\u00eas"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Staten Island",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/M7Kiquud2bjrhQvZXeIrvW0J4a.jpg",
+            "belongs_to_collection": null,
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "homepage": "https://www.nickcage.movie",
+            "id": 648579,
+            "imdb_id": "tt11291274",
+            "original_language": "en",
+            "original_title": "The Unbearable Weight of Massive Talent",
+            "overview": "Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.",
+            "popularity": 31.055,
+            "poster_path": "/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+            "production_companies": [
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 128491,
+                    "logo_path": null,
+                    "name": "Burr! Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2022-04-20",
+            "revenue": 29116320,
+            "runtime": 107,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Spanish",
+                    "iso_639_1": "es",
+                    "name": "Espa\u00f1ol"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Nicolas Cage is Nick Cage.",
+            "title": "The Unbearable Weight of Massive Talent",
+            "video": false,
+            "vote_average": 6.792,
+            "vote_count": 1627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pS4oSxn9g0PAzkWD5zrSOuRIgT6.jpg",
+            "belongs_to_collection": null,
+            "budget": 35000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "homepage": "https://a24films.com/films/beau-is-afraid",
+            "id": 798286,
+            "imdb_id": "tt13521006",
+            "original_language": "en",
+            "original_title": "Beau Is Afraid",
+            "overview": "A paranoid man embarks on an epic odyssey to get home to his mother.",
+            "popularity": 38.241,
+            "poster_path": "/cAq2T0sLwqW2DCbh9bsldfePHqY.jpg",
+            "production_companies": [
+                {
+                    "id": 41077,
+                    "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                    "name": "A24",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 123620,
+                    "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+                    "name": "Square Peg",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 142269,
+                    "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+                    "name": "IPR.VC",
+                    "origin_country": "FI"
+                },
+                {
+                    "id": 103376,
+                    "logo_path": "/zIFWe4fwWURazXSjz9tF60ihgbH.png",
+                    "name": "Access Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 211431,
+                    "logo_path": null,
+                    "name": "MW Industries",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FI",
+                    "name": "Finland"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-04-14",
+            "revenue": 10000000,
+            "runtime": 179,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "From his darkest fears comes the greatest adventure.",
+            "title": "Beau Is Afraid",
+            "video": false,
+            "vote_average": 6.812,
+            "vote_count": 673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/436mzGC6sSM1YsHxdtHD6jVtGxX.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "homepage": "https://fallingforwardfilms.com/films/the-retirement-plan",
+            "id": 866346,
+            "imdb_id": "tt14827638",
+            "original_language": "en",
+            "original_title": "The Retirement Plan",
+            "overview": "When Ashley and her young daughter Sarah get caught up in a criminal enterprise that puts their lives at risk, she turns to the only person who can help: her estranged father Matt, currently living the life of a retired beach bum in the Cayman Islands. Their reunion is fleeting as they are soon tracked down on the island by crime boss Donnie and his lieutenant Bobo. As Ashley, Sarah, and Matt become entangled in an increasingly dangerous web, Ashley quickly learns her father had a secret past that she knew nothing about and that there is more to her father than meets the eye.",
+            "popularity": 30.976,
+            "poster_path": "/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
+            "production_companies": [
+                {
+                    "id": 5486,
+                    "logo_path": "/gDkL1DKC1IaXToq7APrT8vBXK4y.png",
+                    "name": "Darius Films",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 41608,
+                    "logo_path": null,
+                    "name": "Productivity Media",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 208732,
+                    "logo_path": null,
+                    "name": "Falling Forward Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2023-08-24",
+            "revenue": 0,
+            "runtime": 103,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "People change. Assassins don't.",
+            "title": "The Retirement Plan",
+            "video": false,
+            "vote_average": 6.539,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Tn9tVEi6TxUcWhhRxu6hmPBA5Z.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 261823,
+            "imdb_id": "tt2390994",
+            "original_language": "en",
+            "original_title": "Loitering with Intent",
+            "overview": "Fledgling screenwriters retreat to a quiet country manor to work on their script, but a constellation of needy characters produces constant interruptions.",
+            "popularity": 3.342,
+            "poster_path": "/wGA7gL7faSIRDdTlwmO5nnYIn8u.jpg",
+            "production_companies": [
+                {
+                    "id": 39024,
+                    "logo_path": null,
+                    "name": "Mm...Buttered Panini Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6531,
+                    "logo_path": null,
+                    "name": "Parts and Labor",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5124,
+                    "logo_path": null,
+                    "name": "New Artists Alliance",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2014-04-18",
+            "revenue": 0,
+            "runtime": 80,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "",
+            "title": "Loitering with Intent",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bDfVFNJ3LJFOJWlQY0OlXKvfYku.jpg",
+            "belongs_to_collection": null,
+            "budget": 0,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 99,
+                    "name": "Documentary"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "homepage": "",
+            "id": 415767,
+            "imdb_id": "tt6180842",
+            "original_language": "no",
+            "original_title": "DRIB",
+            "overview": "This fiction-documentary hybrid centers on the real life story of how director Kristoffer Borgli\u2019s friend Amir, a stand-up comedian and performance artist, almost ended up as the international face of a well-known energy drink.",
+            "popularity": 1.979,
+            "poster_path": "/1bC689CR1Es5FrKwyDQcazjRdte.jpg",
+            "production_companies": [
+                {
+                    "id": 37251,
+                    "logo_path": "/cm5artJfDk59F41dDOrnYMx0kC8.png",
+                    "name": "Bacon",
+                    "origin_country": "NO"
+                },
+                {
+                    "id": 107481,
+                    "logo_path": null,
+                    "name": "Steakhaus Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 105392,
+                    "logo_path": "/hgmt6qtFTWqnSfbpuBWdphNKfUu.png",
+                    "name": "TrustNordisk",
+                    "origin_country": "DK"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DK",
+                    "name": "Denmark"
+                },
+                {
+                    "iso_3166_1": "NO",
+                    "name": "Norway"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2017-03-11",
+            "revenue": 0,
+            "runtime": 88,
+            "spoken_languages": [
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                },
+                {
+                    "english_name": "Norwegian",
+                    "iso_639_1": "no",
+                    "name": "Norsk"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Stay awake",
+            "title": "DRIB",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jFINtstDUh0vHOGImpMAmLrPcXy.jpg",
+            "belongs_to_collection": null,
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "homepage": "",
+            "id": 643586,
+            "imdb_id": "tt8114980",
+            "original_language": "en",
+            "original_title": "Willy's Wonderland",
+            "overview": "When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy's Wonderland.",
+            "popularity": 31.059,
+            "poster_path": "/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg",
+            "production_companies": [
+                {
+                    "id": 831,
+                    "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 147832,
+                    "logo_path": null,
+                    "name": "JD Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 74496,
+                    "logo_path": null,
+                    "name": "Landafar Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 151378,
+                    "logo_path": null,
+                    "name": "Landmark Studio Group",
+                    "origin_country": ""
+                },
+                {
+                    "id": 111475,
+                    "logo_path": "/vNz6AhnDHvpiSHSc3OzHyDawr0Z.png",
+                    "name": "Almost Never Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "release_date": "2021-02-12",
+            "revenue": 431020,
+            "runtime": 88,
+            "spoken_languages": [
+                {
+                    "english_name": "Spanish",
+                    "iso_639_1": "es",
+                    "name": "Espa\u00f1ol"
+                },
+                {
+                    "english_name": "English",
+                    "iso_639_1": "en",
+                    "name": "English"
+                }
+            ],
+            "status": "Released",
+            "tagline": "Their idea of fun is killer!",
+            "title": "Willy's Wonderland",
+            "video": false,
+            "vote_average": 6.061,
+            "vote_count": 857
+        }
+    ]
+}
